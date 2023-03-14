@@ -1,6 +1,6 @@
 # AWS_Group_Project_B5
 Private repo containing all the code used for the AWS Group Assignment - MiBA Section B 2022/2023.
-Here is a biref explanation of the content of each file. The code have been commented in detail, thus further technical explanations can be found in the respective files.
+Here is a brief explanation of the content of each file. The code have been commented in detail, thus further technical explanations can be found in the respective files.
 
 - Sagemaker_notebook_FINAL_demand contains the Jupyter Notebook used in the Notebook instance of Sagemaker to fit and deploy the model used for Demand Forecasting
 - Sagemaker_notebook_FINAL_price contains the Jupyter Notebook used in the Notebook instance of Sagemaker to fit and deploy the model used for Price Forecasting
