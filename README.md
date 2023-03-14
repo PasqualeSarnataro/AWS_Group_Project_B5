@@ -10,3 +10,4 @@ Here is a brief explanation of the content of each file. The code have been comm
 - downloadbucketprice contains the Jupyter Notebook used to downloads the price prediction csv from the S3 bucket (also runs the naive version of the Streamlit app related to the predictions of the Price Forecasting Model).
 - finalselectmonth contains the script to run a Demand Forecasting interactive Streamlit app.
 - pricepercitymonth contains the script to run a Price Forecasting more flexbile Streamlit app.
+- lambda function example contains a skecth script to leverage and call the trained model endpoints. NB: It has not been tested!
